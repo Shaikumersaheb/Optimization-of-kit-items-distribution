@@ -1,4 +1,3 @@
 # Optimization-of-kit-items-distribution
-● Business Problem : A leading automotive manufacture ,facing difficulty in efficiently sourcing and providing unique kit items to meet customer demands.
-● Business Objective : Maximize efficient kit delivery 
-● Business Constraint :Maximize the supply consistency
+A leading automotive manufacture industry is facing difficulty in efficiently of sourcing and providing unique kit items to meet customer demands and we solved the issues by
+making Maximizing efficient kit delivery and Maximizing the supply consistency.
